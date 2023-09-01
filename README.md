@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paulo</h1>
+<h1 align="center">Unity Certified Programer<br /><a href="https://www.credly.com/badges/9d2af475-dae6-420f-9818-a3cc473a7ca2" target="_blank"><img src="https://images.credly.com/size/680x680/images/51da8803-3699-4392-8ef5-3291e6bc084d/image.png" style="width:130px; height:130px;" /></a></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paulo-daniel-ortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-daniel-ortiz" height="30" width="40" /></a>
