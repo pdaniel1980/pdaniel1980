@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 <h3 align="center">I am an enthusiastic developer, who loves developing video games</h3>
 
-- 🔭 I am currently working as an IT Manager and working on personal projects.
+- 🔭 I am currently working as an IT Manager while also working on personal projects.
   
-- 🌱 I’m currently learning Unity, and improving my skills in C#.
+- 🌱 I’m currently learning Unity and improving my C# skills.
 
 - 📫 How to reach me **pdaniel@gmail.com**
 
